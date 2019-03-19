@@ -12,7 +12,7 @@
 ncmdir = '/Your/Path/To/ncmdir/'    #放ncm格式文件的目录
 mp3dir = '/Your/Path/To/mp3dir/'    #转成mp3格式后存放的目录
 ```
-* 执行整个脚本，等待完成。
+* 执行整个脚本，等待完成。    
     
 ---
 > but in The End, it dosen't even matter...
